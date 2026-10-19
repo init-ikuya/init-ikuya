@@ -2,17 +2,11 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create innovative solutions and to be interested in an open-source community.
-
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about software development, coding, and technology
-- ⚡ Fun fact: I believe in the power of clean code and continuous learning
+I'm a backend engineer with a background in physics. I'm interested in machine learning and cryptocurrency, and I spend a little time on TryHackMe.
 
 ## 🎯 Featured Projects
 
-<!-- Add your featured projects here -->
-
+- 🔗 [x402 Solana Demo](https://github.com/init-ikuya/x402-solana-demo) - Exploring four x402 payment schemes on Solana: exact, upto, batch settlement, and auth-capture
 - 🔗 [Kasukabe Tsumugi Follower mcaddon](https://www.curseforge.com/minecraft-bedrock/addons/kasukabe-tsumugi-follower) - Minecraft Bedrock Edition addon featuring "Kasukabe Tsumugi" (VOICEVOX character) as an AI follower with 45+ voice lines, combat AI, and affection system
 - 🔗 [Kasukabe Tsumugi Follower mcaddon Wiki](https://init-ikuya.github.io/kasukabe-tsumugi-follower-mcaddon-wiki) - Wiki site for the Minecraft BE "Kasukabe Tsumugi Follower Add-on"
 - 🔗 [mcp-voicevox-server](https://github.com/init-ikuya/mcp-voicevox-server) - MCP server for VOICEVOX text-to-speech integration with Claude Code
